@@ -1,10 +1,10 @@
 # e-portfolio-datascience_in_python
 
-##Preperation
+## Preperation
 
-###Dataset
+### Dataset
 
-###Program language and liabries
+### Program language and liabries
 
-##Presentation
+## Presentation
 
