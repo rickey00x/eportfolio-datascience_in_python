@@ -3,9 +3,9 @@
 ## Preperation
 
 ### Data
--Get the prepared data (less work):
+- Get the prepared data (less work):
 [combined_csv.csv](combined_csv.csv)
--or the unprepard data (we will prepar it in the Livecoding):
+- or the unprepard data (we will prepar it in the Livecoding):
 [Spotify_Eportfolio_Data](Spotify_Eportfolio_Data)
 ### Program language and liabries
 -Python Version 3.10
