@@ -27,3 +27,4 @@ In the live Coding i will show you how to:
 - How to prepare the data so that we can use it properly
   - This [script](CSV_merger.py) is used here
 - How to analyse the given data
+  - This [file](pandas.ipynb) is used here
