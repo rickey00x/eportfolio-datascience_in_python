@@ -23,6 +23,7 @@ https://docs.google.com/presentation/d/1n5wW_NzTPxoUFfsWZor_gQ7SjJ5Qt7kIDr7i8zU6
 ## Live Coding
 In the live Coding i will show you how to:
 - How to get the used data from Spotify
+  - This [script](Spotify_CSV_downloader.py)  is used here
 - How to prepare the data so that we can use it properly
   - This [script](CSV_merger.py) is used here
 - How to analyse the given data
