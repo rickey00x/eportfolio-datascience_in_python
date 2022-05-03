@@ -6,7 +6,7 @@ Especially i will show how to use Pandas to create Dataframes from a csv and to 
 - Get the prepared data (less work):
 [combined_csv.csv](combined_csv.csv)
 or
-- Get the unprepard data (we will prepare it in the Livecoding):
+- Get the unprepard data (we will prepare it in the Live Coding):
 [Spotify_Eportfolio_Data](Spotify_Eportfolio_Data)
 ### Program language and liabries
 You need to have this program language and libraries installed
@@ -19,3 +19,9 @@ The fast and easy way is to use the [VSCode extention](https://code.visualstudio
 
 ## Presentation
 https://docs.google.com/presentation/d/1n5wW_NzTPxoUFfsWZor_gQ7SjJ5Qt7kIDr7i8zU6wco/edit?usp=sharing
+
+##Live Coding
+In the live Coding i will show you how to:
+- How to get the used data from Spotify
+- How to prepare the data so that we can use it properly
+- How to analyse the given data
