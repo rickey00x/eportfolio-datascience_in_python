@@ -1,4 +1,4 @@
-# e-portfolio-datascience_in_python
+# eportfolio-datascience_in_python
 In my E-portfolio i will give a small introduction into data science in python.
 Especially i will show how to use Pandas to create Dataframes from a csv and to manipulate this Dataframes to extract useful information
 ## Preperation
